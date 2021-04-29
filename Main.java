@@ -15,7 +15,6 @@ public class Main {
 
         Scanner userInput = new Scanner(System.in);
 
-       
         File fileName = new File(args[0]);
 
         System.out.println("The text is: ");
