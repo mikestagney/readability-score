@@ -1,5 +1,5 @@
 # Readability Score
-Opens a text file and counts the words, sentences, characters, syllables and pollysyllables.  Then it uses these counts to calculate 4 different readability formulas and gives the appropriate reading level age.
+Opens a text file and counts the words, sentences, characters, syllables and pollysyllables.  Then it uses these counts to calculate 4 different readability formulas and gives the appropriate reading level age by averaging the scores.
 
 ## Things learned
 
