@@ -15,7 +15,7 @@ public class Main {
 
         Scanner userInput = new Scanner(System.in);
 
-        // Intellij config won't save    /Users/mikestagney/Downloads/readabilityTest3.txt
+       
         File fileName = new File(args[0]);
 
         System.out.println("The text is: ");
