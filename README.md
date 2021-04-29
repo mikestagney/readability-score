@@ -5,6 +5,8 @@ Opens a text file and counts the words, sentences, characters, syllables and pol
 
 Writing a java program that executes from the command line and takes parameters from the args array.
 
+Used regular expressions to count syllables.
+
 ### Details
 
 The 4 readability scores: 
@@ -19,13 +21,14 @@ Fourth project created for JetBrains Academy Java Developer course - medium leve
 ### How it runs
 
 Input (from command line):
+
 > java Main test.txt
 
-Contents of test file:
+Output:
+
+The text is:
 
 This is the front page of the Simple English Wikipedia. Wikipedias are places where people work together to write encyclopedias in different languages. We use Simple English words and grammar here. The Simple English Wikipedia is for everyone! That includes children and adults who are learning English. There are 142,262 articles on the Simple English Wikipedia. All of the pages are free to use. They have all been published under both the Creative Commons License and the GNU Free Documentation License. You can help here! You may change these pages and make new pages. Read the help pages and other good pages to learn how to write pages here. If you need help, you may ask questions at Simple talk. Use Basic English vocabulary and shorter sentences. This allows people to understand normally complex terms or phrases.
-
-Output:
 
 Words: 137\
 Sentences: 14\
